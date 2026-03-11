@@ -1,8 +1,4 @@
 
-link
-
-
-
 ## CSS Properties
 
 
