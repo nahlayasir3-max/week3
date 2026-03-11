@@ -22,7 +22,7 @@ link
 | margin           | sections              | 20px bottom                     |
 | overflow         | about section         | auto                            |
 
-##before and after
+## before and after
 
 
 <img width="1920" height="1671" alt="screencapture-127-0-0-1-5500-index-html-2026-03-11-14_53_25" src="https://github.com/user-attachments/assets/8f46819a-347c-4b70-8cea-cfe47a2336a0" />
