@@ -1,0 +1,85 @@
+body {
+  background-color: #eee;
+  color: black;
+}
+
+main,
+header {
+  max-width: 900px;
+  margin: 10px auto;
+}
+.hidden {
+  display: none;
+}
+
+.header,
+.about,
+.skills,
+.projects,
+.accounts {
+  background-color: #ddd;
+  color: black;
+  background-image: url(/images/download.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 10px 10px 0px 10px;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+.header {
+  background-image: url(/images/download\ \(1\).png);
+}
+
+.about {
+  background-image: url(/images/download\ \(1\).png);
+}
+
+.skills {
+  background-image: url(/images/34852f1821af63e9141742f6a1d101fc.jpg);
+}
+
+.accounts {
+  background-image: url(/images/download\ \(2\).png);
+}
+
+.projects {
+  background-image: url(/images/62269b480494fe6930f9645baa8bfbac.jpg);
+}
+
+.about {
+  background-image: url(/images/975208bbfc60b15ffaeb6a65877e32f8.jpg);
+  max-height: 345px;
+  overflow: auto;
+}
+
+.profile-img {
+  width: 200px;
+  max-width: 300px;
+  height: 200px;
+  border: 5px solid blueviolet;
+  border-radius: 50%;
+}
+
+h1,
+h2 {
+  color: blueviolet;
+  outline: solid 2px rgb(27, 27, 144);
+}
+
+nav a,
+.accounts a {
+  color: black;
+  margin-left: 10px;
+}
+
+a:hover {
+  outline: solid 2px rgb(27, 27, 144);
+  border-radius: 20%;
+}
+
+ol li {
+  display: inline-block;
+  margin-left: 10px;
+}
